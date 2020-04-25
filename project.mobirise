@@ -59,12 +59,12 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://openhouseondemand.github.io/386-Olinda-Dr/",
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-164565070-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-164565070-1');\n</script>\n"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-164565070-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-164565070-1');\n</script>\n\n\n<meta name=\"google-site-verification\" content=\"Lt303OFavkEnb2vmC1E4c5iP6CYh7G7E7Xo8CJfYIzc\" />"
   },
   "pages": {
     "index.html": {
